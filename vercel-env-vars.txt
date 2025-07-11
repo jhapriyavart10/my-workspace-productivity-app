@@ -1,0 +1,7 @@
+# Quick Start Environment Variables for Vercel
+# Copy and paste these into Vercel's environment variables section
+
+NEXTAUTH_URL=https://dume-a7fgtzxby-priyavart-jhas-projects.vercel.app
+NEXTAUTH_SECRET=your-super-secret-key-at-least-32-characters-long-for-production-use
+MONGODB_URI=mongodb+srv://test:test@cluster0.mongodb.net/test?retryWrites=true&w=majority
+GEMINI_API_KEY=optional-can-be-empty-for-now
